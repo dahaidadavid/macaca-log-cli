@@ -1,6 +1,6 @@
 {
   "name": "macaca-log-cli",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Macaca command-line interface",
   "keywords": [
     "automation",
@@ -9,7 +9,7 @@
     "test framework"
   ],
   "bin": {
-    "macaca-log": "./bin/macaca-cli"
+    "macaca-log": "./bin/macaca-log-cli"
   },
   "main": "./lib",
   "repository": {
